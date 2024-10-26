@@ -4,7 +4,7 @@ Análisis y Predicción de Ventas en una Tienda de Retail (Core). Este proyecto 
 ## Estructura del Proyecto
 
 - `retail_sales_dataset.csv`: Es el dataset.
-- `Retail_sales_analysis___CR.ipynb`: Sería el .
+- `Retail_sales_analysis___CR.ipynb`: Sería el Jupyter notebook.
 - `requirements.md`: Para instalar las dependencias, aunque en este caso es solo numpy.
 - `README.md`: Este archivo.
 
